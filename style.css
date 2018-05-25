@@ -1,0 +1,29 @@
+html, body {
+  height: 100vh;
+}
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0 20px;
+  background-color: #fdecef;
+  background-image: repeating-linear-gradient(45deg, transparent, transparent 35px, rgba(255,255,255,.5) 35px, rgba(255,255,255,.75) 70px);
+}
+h1 {
+  margin-bottom: 0;
+}
+h2 {
+  margin-top: 0;
+
+}
+p {
+  font-size: 18px;
+}
+.panel {
+  color: #323232;
+  display: inline-block;
+  background: #fff;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 4px;
+  box-shadow: 1px 1px 4px 1px rgba(0, 0, 0, 0.15);
+}
